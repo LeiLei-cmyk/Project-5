@@ -20,5 +20,11 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Settings.unity
     guid: c08ee98951f2ac04387d412ba6b404bf
+  - enabled: 1
+    path: Assets/Scenes/Level - Drag.unity
+    guid: 60636d3b310308240a0f21dcd12fc83c
+  - enabled: 1
+    path: Assets/Scenes/Level - choice.unity
+    guid: e341596644332fa44b26b2c56b32bf1a
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
