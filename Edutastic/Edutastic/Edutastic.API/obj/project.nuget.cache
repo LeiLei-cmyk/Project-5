@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "miRtlZln8RE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jerem\\source\\repos\\Edutastic\\Edutastic.API\\Edutastic.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jerem\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.9\\microsoft.aspnetcore.openapi.10.0.9.nupkg.sha512",
+    "C:\\Users\\jerem\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512",
+    "C:\\Users\\jerem\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\jerem\\.nuget\\packages\\supabase.core\\1.0.0\\supabase.core.1.0.0.nupkg.sha512",
+    "C:\\Users\\jerem\\.nuget\\packages\\supabase.postgrest\\4.1.0\\supabase.postgrest.4.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
