@@ -3,7 +3,7 @@ using UnityEngine.UI;
 
 public class WritingTheAnswers : MonoBehaviour
 {
-    private string answer = "moons";
+    public string answer;
     public Button yourbutton;
     public GameObject NextButton;
     public TMPro.TMP_InputField inputField;
